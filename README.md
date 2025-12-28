@@ -1,6 +1,6 @@
 # ASHEN LEGACY - Vintage Story Server Website
 
-The official website for ASHEN LEGACY, a Russian Vintage Story game server.
+The official website for ASHEN LEGACY, a Vintage Story game server.
 
 🌐 **Live Site**: [https://alegacy.online](https://alegacy.online)
 
